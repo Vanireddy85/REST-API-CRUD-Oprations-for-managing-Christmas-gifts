@@ -1,0 +1,12 @@
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\bin\Debug\net6.0\ChristmasWishList.Shared.deps.json
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\bin\Debug\net6.0\ChristmasWishList.Shared.dll
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\bin\Debug\net6.0\ChristmasWishList.Shared.pdb
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\obj\Debug\net6.0\ChristmasWishList.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\obj\Debug\net6.0\ChristmasWishList.Shared.AssemblyInfoInputs.cache
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\obj\Debug\net6.0\ChristmasWishList.Shared.AssemblyInfo.cs
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\obj\Debug\net6.0\ChristmasWishList.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\obj\Debug\net6.0\ChristmasWishList.Shared.sourcelink.json
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\obj\Debug\net6.0\ChristmasWishList.Shared.dll
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\obj\Debug\net6.0\refint\ChristmasWishList.Shared.dll
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\obj\Debug\net6.0\ChristmasWishList.Shared.pdb
+C:\Users\ravi_\OneDrive\Desktop\ChristmasWishList-master\ChristmasWishList.Shared\obj\Debug\net6.0\ref\ChristmasWishList.Shared.dll

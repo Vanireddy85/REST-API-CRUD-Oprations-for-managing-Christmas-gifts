@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKq7iPPAbi2rkOoCLBRb6FCDBtznR89NvavDeBwflus/mDWHOqYWG/lHptIqMxBDXlwYWuH9s+PPiLkc2oA/EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ravi_\\OneDrive\\Desktop\\ChristmasWishList-master\\ChristmasWishList.BusinessLayer\\ChristmasWishList.BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ravi_\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
